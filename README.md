@@ -18,14 +18,7 @@
 
 ## Installation
 
-### Method 1: Manual Install
-
-1. Download the latest `.zip` release from the [Releases](https://github.com/Vianvolaeus/VV-FABRICA/releases) page.
-2. Open Blender and go to **Edit > Preferences > Get Extensions**.
-3. Use the **Install from Disk** option and select the downloaded `.zip` file.
-4. Enable VV-FABRICA in the extensions list.
-
-### Method 2: Remote Repository
+### via Remote Repository
 
 1. Open Blender and go to **Edit > Preferences > Get Extensions**.
 2. Click the **Repositories** dropdown and select **Add Remote Repository**.
