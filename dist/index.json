@@ -1,0 +1,28 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "vv_fabrica",
+      "name": "VV-FABRICA",
+      "tagline": "Modular toolkit for character authoring and 3D workflows",
+      "version": "0.1.29",
+      "type": "add-on",
+      "maintainer": "Vianvolaeus",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.5.0",
+      "website": "https://github.com/Vianvolaeus/VV-FABRICA",
+      "tags": [
+        "Rigging",
+        "Mesh",
+        "Animation"
+      ],
+      "archive_url": "./vv_fabrica-0.1.29.zip",
+      "archive_size": 93581,
+      "archive_hash": "sha256:2b5157a83033412f9c355b0c34b2f66fbd5e55f3e0d7e3c50ec3f81d319fd31c"
+    }
+  ]
+}
